@@ -4,5 +4,7 @@ doing changes
 
 doing changes for fix-typo task
 
+
+to many commit first
 task commit-split
 
